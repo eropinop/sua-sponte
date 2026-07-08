@@ -1,0 +1,7 @@
+{
+  "name": "sua-sponte",
+  "version": "0.1.0",
+  "description": "Sua Sponte - a jurisdiction-aware litigation toolkit for self-represented (pro se) litigants: per-case court and judge profiling, deep document review (citations, tone, completeness), adversarial pressure testing, evidence/exhibit compilation, calibrated case-odds assessment, and airtight pre-filing checks.",
+  "author": { "name": "Erin" },
+  "keywords": ["legal", "litigation", "pro-se", "filing", "court"]
+}
